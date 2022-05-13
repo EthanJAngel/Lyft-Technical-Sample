@@ -1,8 +1,7 @@
 # Lyft Technical Sample README
 
 This project is a small sample requested for the 2022 Lyft Apprenticeship application
-
-This project was coded using javascript and React.js
+This project was coded using javascript and React.js\
 
 To sample the project, you can run:
 
